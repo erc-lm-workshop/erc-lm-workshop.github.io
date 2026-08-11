@@ -297,7 +297,8 @@ time {
   gap: 12px;
 }
 
-.organizer-list a {
+.organizer-list a,
+.organizer-list span {
   display: inline-flex;
   align-items: center;
   min-height: 42px;
