@@ -150,6 +150,12 @@ h3 {
   margin-top: 32px;
 }
 
+.submission-actions .button {
+  min-height: 60px;
+  padding: 16px 28px;
+  font-size: 1.15rem;
+}
+
 .button {
   display: inline-flex;
   align-items: center;
